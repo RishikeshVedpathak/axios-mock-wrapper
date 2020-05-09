@@ -1,0 +1,25 @@
+{
+  "name": "axios-mock-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper on axios which gives ability to provide mock data on demand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "axios",
+    "javascript"
+  ],
+  "author": "Rishi Vedpathak",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "bugs": {
+    "url": "https://github.com/RishikeshVedpathak/axios-mock-wrapper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RishikeshVedpathak/axios-mock-wrapper.git"
+  }
+}
