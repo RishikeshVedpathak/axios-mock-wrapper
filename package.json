@@ -13,7 +13,7 @@
   "author": "Rishi Vedpathak",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "bugs": {
     "url": "https://github.com/RishikeshVedpathak/axios-mock-wrapper/issues"
